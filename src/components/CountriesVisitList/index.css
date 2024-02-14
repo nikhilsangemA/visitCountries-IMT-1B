@@ -1,0 +1,34 @@
+.li-list {
+  list-style-type: none;
+  border-bottom: 1px solid pink;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.para {
+  padding-left: 39px;
+}
+.para2 {
+  margin-right: 39px;
+
+  width: 100px;
+  text-align: center;
+}
+
+.btn-visit {
+  color: #ffffff;
+  background-color: #3b82f6;
+  border: none;
+  height: 40px;
+  width: 100px;
+  margin-right: 39px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.btn1 {
+  background-color: #cbd5e1;
+  color: #000000;
+}

@@ -1,0 +1,24 @@
+.mainContainer {
+  min-height: 100vh;
+  background-color: #161624;
+  color: #ffffff;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.countriesVisit {
+  background-color: #334155;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  height: 300px;
+  margin: 0px;
+  padding: 0px;
+  overflow-y: scroll;
+}
+
+.ul-flag {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0px;
+  padding: 0px;
+}

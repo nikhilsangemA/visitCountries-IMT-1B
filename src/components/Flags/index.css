@@ -1,0 +1,30 @@
+.img-edit {
+  height: 70%;
+  width: 100%;
+}
+
+.li-flag {
+  list-style-type: none;
+  background-color: #334155;
+  min-width: 150px;
+  max-width: 350px;
+  height: 220px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  padding-bottom: 20px;
+}
+
+.para-btn-flag {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.btn-flag-edit {
+  border: 1px solid #ffffff;
+  color: #ffffff;
+  background-color: transparent;
+  height: 24px;
+}
